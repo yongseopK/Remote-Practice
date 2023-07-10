@@ -4,7 +4,8 @@
 
 ## README 연습
 
-[네이버](https://www.naver.com)
+[구글링크](https://www.naver.com)
+
 
 ``` java
 public class Hello {

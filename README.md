@@ -1,6 +1,6 @@
 # Remote-Practice
 
-- 메롱메롱
+- 샤킬오닐
 
 ## README 연습
 
